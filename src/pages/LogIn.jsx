@@ -69,14 +69,8 @@ const LogIn = () => {
                   Log In
                 </Button>
               </Grid>
-              <Grid item xs={12}>
-                <Typography align="center">OR</Typography>
-              </Grid>
-              <Grid item xs={12}>
-                <Button fullWidth variant="outlined" color="secondary">
-                  Continue with Google
-                </Button>
-              </Grid>
+             
+             
               <Grid item xs={12}>
                 <Typography align="center">
                  New to here? <Link to="/register">Register</Link>
